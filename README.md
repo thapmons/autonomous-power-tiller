@@ -5,7 +5,7 @@
 
 ---
 
-## 🌏 The Mission
+## The Mission
 In South Asia, the two-wheeler tractor is the primary tool for millions of farmers. However, operating them—especially during the "puddling" phase in wet rice paddies—is physically grueling and dangerous.
 
 **This project explores a Physical AI framework to:**
@@ -15,7 +15,7 @@ In South Asia, the two-wheeler tractor is the primary tool for millions of farme
 
 ---
 
-## 🛠️ Planned Tech Stack
+## Planned Tech Stack
 *These are the tools I am currently researching and learning to implement this vision.*
 
 ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -26,7 +26,7 @@ In South Asia, the two-wheeler tractor is the primary tool for millions of farme
 
 ---
 
-## 🧠 Proposed System Architecture
+## Proposed System Architecture
 This pipeline represents how the AI "Brain" interacts with the tractor "Body."
 
 ```mermaid
