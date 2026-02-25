@@ -4,7 +4,7 @@
 
 ---
 
-## 🌏 The Mission
+## The Mission
 In South Asia, the two-wheeler tractor (Power Tiller) is the backbone of farming. However, operating them in muddy rice paddies is physically exhausting and labor-intensive. 
 
 **This project explores how Physical AI can:**
@@ -14,7 +14,7 @@ In South Asia, the two-wheeler tractor (Power Tiller) is the backbone of farming
 
 ---
 
-## 🧠 Proposed System Architecture (Physical AI Pipeline)
+## Proposed System Architecture (Physical AI Pipeline)
 
 ```mermaid
 graph TD
