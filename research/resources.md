@@ -21,10 +21,10 @@ Ongoing research on autonomous power tiller framework.
 
 ## Media & Visual References
 * **Iron Buffalo: The 2-Wheel Tractor in Action** [Watch on YouTube](https://www.youtube.com/watch?v=Gg84MAwKlCU)  
-  *Why it matters:* This video provides a mechanical breakdown of the "Thai-style" tractors that dominate the region—essential for understanding the steering physics.
+  *Why it matters:* Gives a glimpse of thai-based 2-wheeler tractor's mechanical and steering system.
 
 * **Extreme Puddling: Power Tillers in Deep Mud** [Watch on YouTube](https://www.youtube.com/watch?v=J_gJPBZXalg)  
-  *Why it matters:* Visualizing the "worst-case scenario" for computer vision sensors (mud splatter, vibration, and low-traction environments).
+  *Why it matters:* Glimpse of worst-case scenerio for computer-vision based sensors. 
 
 ---
 
