@@ -24,7 +24,10 @@ Ongoing research on autonomous power tiller framework.
   *Why it matters:* Gives a glimpse of thai-based 2-wheeler tractor's mechanical and steering system.
 
 * **Extreme Puddling: Power Tillers in Deep Mud** [Watch on YouTube](https://www.youtube.com/watch?v=J_gJPBZXalg)  
-  *Why it matters:* Glimpse of worst-case scenerio for computer-vision based sensors. 
+  *Why it matters:* Glimpse of worst-case scenerio for computer-vision based sensors.
+  
+* **Honda FJ500 DLX Ploughing Plowing.** [Watch on YouTube](https://www.youtube.com/watch?v=53m_iRyakcw)  
+  *Why it matters:* Application of 2-wheeler tractor in a dry farmland. 
 
 ---
 
